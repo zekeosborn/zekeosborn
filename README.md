@@ -1,4 +1,4 @@
-👋 # Hi there, I'm Zeke Osborn.
+# 👋 Hi there, I'm Zeke Osborn.
 
 I'm a **Full-Stack Web Developer** focused on building modern, user-friendly, and efficient web applications. I love working across the stack, from beautiful frontends to powerful backends, and constantly exploring new tools that push the web forward.
 
