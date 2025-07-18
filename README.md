@@ -20,11 +20,3 @@ I'm a **Full-Stack Web Developer** focused on building modern, user-friendly, an
 
 - **Others**:  
   Node.js · Linux · Vercel · Godot Engine
-
----
-
-### 📫 Reach Me
-
-Feel free to reach out for collaboration or just to say hi!
-
-- Twitter/X: [zekeosborn](https://x.com/zekeosborn)
